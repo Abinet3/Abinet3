@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abinet
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning at NYU
-- 💞️ I’m looking to collaborate on projects
-- 📫 contact me at ab11475@nyu.edu
+- 📫 I’m looking to collaborate on projects
+- ✨ contact me at ab11475@nyu.edu
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: born to be coder.
 
